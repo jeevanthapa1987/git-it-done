@@ -20,6 +20,9 @@ To use Git it Done, simply open the index.html file in your web browser. You can
 to find featured repositories.
 
 **Website:
+https://jeevanthapa1987.github.io/git-it-done/
+
+
 
 
 **Credits:
